@@ -1,0 +1,45 @@
+.cointaner{
+height: 70vh;
+width: 80vw;
+border: 2px solid black;
+ margin: 10%;
+ display:flex;
+ justify-content:center;
+ text-align: center;
+ background-color: rgb(10, 14, 14);
+  
+
+}
+.right{
+    border: 2px solid ;
+    width: 30vw;
+    height: 35vh;
+    margin-top: 60px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: brown;
+    display: flex;
+flex-direction: column;
+justify-content:  space-around;
+    
+}
+.left{
+border: 2px solid;
+width: 30vw;
+height: 35vh;
+margin-top: 60px;
+margin-left: 20px;
+display: flex;
+flex-direction: column;
+justify-content:  space-around;
+padding: 10px;
+background-color: rgb(255, 0, 221);
+
+}
+
+.label{
+    border: 2px solid;
+    background-color: blue;
+    cursor: pointer;
+    
+}
